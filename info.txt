@@ -1,0 +1,15 @@
+Project Title: Bookstore Inventory Management System
+
+Description:
+Create a bookstore inventory management system using Python and SQL. 
+The system will allow users to perform various operations such as adding new books to the inventory, 
+updating book information, deleting books, and searching for books based on different criteria.
+
+Features:
+
+Book Entry: Users can add new books to the inventory by providing details such as title, author, genre, ISBN, and quantity.
+Book Update: Users can update the information of existing books, such as changing the quantity or updating the author's name.
+Book Deletion: Users can remove books from the inventory.
+Book Search: Users can search for books based on different criteria, such as title, author, or genre.
+View Inventory: Users can view the entire inventory, including all book details and quantities.
+Sales Management: Users can track sales by recording the number of books sold and updating the inventory accordingly.
